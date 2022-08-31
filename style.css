@@ -1,0 +1,28 @@
+.conteiner {
+    background-color: rgb(220, 219, 177);
+}
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(41, 122, 192);
+}
+
+
+h2 {
+    
+    font-family: fantasy;
+}
+
+ul li {
+    color: white;
+    display: inline;
+
+}
+
+
+.col {
+    display: inline-block;
+    
+}
+
